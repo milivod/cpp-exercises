@@ -1,0 +1,8 @@
+# Fertige Programme / Binaries ignorieren
+server
+program
+*.o
+*.out
+
+# VS Code Einstellungen ignorieren
+.vscode/
